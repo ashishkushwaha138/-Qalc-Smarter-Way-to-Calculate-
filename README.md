@@ -21,3 +21,6 @@ Qalc is more than a calculator — it’s a math companion. Whether you’re a s
 
 With Qalc, you don’t just calculate — you think it, type it, and Qalc it! ⚡
 
+
+
+---------- Comming Soon ----------
